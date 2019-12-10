@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Advent of Code Day 1
+The Tyranny of the Rocket Equation
 @ttalikka
 """
 

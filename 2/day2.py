@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Advent of Code Day 2
+1202 Program Alarm
 @ttalikka
 """
 
